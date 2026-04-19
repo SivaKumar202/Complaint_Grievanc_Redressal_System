@@ -11,7 +11,7 @@ const ForgotPassword: React.FC = () => {
     e.preventDefault();
     try {
       const res = await axios.post(
-        "http://localhost:5000/api/admin/forgot-password",
+        "https://complaint-grievanc-redressal-system.onrender.com/api/admin/forgot-password",
         { email }
       );
       setMessage(res.data.message);
