@@ -26,7 +26,7 @@ A comprehensive full-stack solution to help students and staff manage, track, an
 - **Runtime Environment**: Node.js & Express.js
 - **Database**: MongoDB (Mongoose)
 - **Vector Database**: Pinecone
-- **AI & Embeddings**: Google GenAI / OpenAI (for duplicate complaint analysis)
+- **AI & Embeddings**: Google GenAI (for duplicate complaint analysis)
 - **Authentication**: JSON Web Tokens (JWT) & bcryptjs
 - **Email Service**: Nodemailer (for resolution emails & password resets)
 
